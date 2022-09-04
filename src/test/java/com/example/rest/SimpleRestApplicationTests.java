@@ -8,6 +8,7 @@ class SimpleRestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Test method");
 	}
 
 }
