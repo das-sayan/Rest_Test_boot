@@ -10,7 +10,7 @@ public class MyController {
 	
 	@RequestMapping("/test")
 	private String test() {
-		return "<h2>Hello Spring-Rest services started.</h2>";
+		return "<h2>Hello World Spring-Rest services started....</h2>";
 	}
 
 }
